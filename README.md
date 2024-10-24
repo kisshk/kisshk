@@ -1,36 +1,22 @@
-# 👋 Hello! I'm **Kishor** 
+<h1 align="center">Hi 👋, I'm Kishor</h1>
+<h3 align="center">A passionate DevOps Engineer from India</h3>
 
-I'm a **DevOps Engineer** with 4 years of experience in implementing CI/CD pipelines, automation, and cloud infrastructure. I am passionate about optimizing workflows and improving system reliability.
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=kisshk&label=Profile%20views&color=0e75b6&style=flat" alt="kisshk" /> </p>
 
----
+- 🔭 I’m currently working on **Java based Web Application**
 
-## 🌟 Skills
+- 🌱 I’m currently learning **Python**
 
-| **DevOps Tools**                | **Programming Languages** | **Cloud Platforms**        | **Configuration Management** | **Monitoring Tools**       |
-|----------------------------------|---------------------------|----------------------------|-------------------------------|-----------------------------|
-| ![Jenkins](https://upload.wikimedia.org/wikipedia/commons/e/e0/Jenkins_logo.svg) Jenkins | ![Python](https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg) Python | ![AWS](https://upload.wikimedia.org/wikipedia/commons/0/01/Amazon_Web_Services_Logo.svg) AWS | ![Ansible](https://upload.wikimedia.org/wikipedia/commons/b/b3/Ansible_logo.svg) Ansible | ![Grafana](https://grafana.com/static/img/docs/grafana/grafana_icon.svg) Grafana |
-| ![Docker](https://upload.wikimedia.org/wikipedia/commons/6/67/Docker_logo.png) Docker | ![Bash](https://upload.wikimedia.org/wikipedia/commons/0/02/Bash_Logo.png) Bash | ![GCP](https://upload.wikimedia.org/wikipedia/commons/4/4b/Google_Cloud_Logo.svg) Google Cloud | ![Puppet](https://upload.wikimedia.org/wikipedia/commons/8/83/Puppet_logo.svg) Puppet | ![Prometheus](https://upload.wikimedia.org/wikipedia/commons/4/45/Prometheus_logo.svg) Prometheus |
-| ![Kubernetes](https://upload.wikimedia.org/wikipedia/commons/3/39/Kubernetes_logo.svg) Kubernetes | | | | |
+- 💬 Ask me about **AWS,DevOps, Linux**
 
----
+- 📫 How to reach me **kisshorka.kk@gmail.com**
 
-## 🌱 Current Learning
-I'm currently diving into:
-- **Advanced Kubernetes Techniques**
-- **Site Reliability Engineering (SRE) Principles**
-- **Observability Practices using the ELK Stack**
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/kishor-kanade93" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kishor-kanade93" height="30" width="40" /></a>
+</p>
 
----
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://grafana.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> </p>
 
-## 📫 Get in Touch
-- **LinkedIn**: [Kishor Kanade](https://www.linkedin.com/in/kishor-kanade93/)
-- **Email**: [kisshorka.kk@gmail.com](mailto:kisshorka.kk@gmail.com)
-
----
-
-## 🌐 Let's Collaborate!
-Feel free to reach out if you're interested in collaborating on DevOps projects, sharing knowledge, or just connecting with like-minded professionals!
-
----
-
-> “The future belongs to those who believe in the beauty of their dreams.” - Eleanor Roosevelt
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=kisshk&show_icons=true&locale=en&layout=compact" alt="kisshk" /></p>
